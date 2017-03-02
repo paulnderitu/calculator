@@ -6,7 +6,7 @@ Authors: [Your Name](https://your-website-or-email.com) + other authors
 
 ## Description
 
-This is a project to cure cancer...probably.
+This is a computational project that carries out tasks passed on from the user's input.
 
 It can do:
 1. blah
@@ -22,7 +22,7 @@ It can do:
 Make sure you have git installed. On the terminal, navigate to your workspace directory and run
 
 ```bash
-$ git clone https://github.com/brianmarete/hello-world.git
+$ git clone https://github.com/paulnderitu/calculator.git
 ```
 ## Contributing
 
